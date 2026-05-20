@@ -372,3 +372,67 @@ nav {
     background-color: #1a1a1a !important;
     color: #ffffff;
 }
+
+/*about us section*/
+.about-section {
+    background-color: var(--section-bg);
+    padding: 60px 0;
+}
+
+.about-title {
+    font-size: 34px;
+    font-weight: 500;
+    color: var(--dark-text);
+    text-align: left;
+    margin-top: -40px;
+}
+
+.about-description {
+    font-size: 16px;
+    color: var(--muted-text);
+    text-align: left;
+    margin: 20px 0px 40px 0;
+}
+
+.about-img {
+    height: 400px;
+    width: 600px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.show-dots {
+    list-style-type: disc !important; 
+}
+
+.about-btn {
+    border: none;
+    padding: 12px 30px;
+    margin: 20px 0;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 50px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+    color: #ffffff !important;
+}
+
+/*Featured Section*/
+.features-link a {
+    color: var(--primary-color);
+    font-size: 14px;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.features-link a.active,
+.features-link a:hover {
+    color: #d9443f;
+    text-decoration: underline !important;
+    text-decoration-color: red !important;
+    text-underline-offset: 6px;
+}
