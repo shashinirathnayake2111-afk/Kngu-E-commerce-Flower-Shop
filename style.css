@@ -507,3 +507,70 @@ nav {
     color: var(--muted-text) !important;
     font-weight: 300;
 }
+
+/*Blog section*/
+.blog {
+    background-color: var(--section-bg);
+    padding: 60px 0;
+}
+
+.blog-img {
+    height: 220px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.blog .card-text {
+    font-size: 14px;
+    color: var(--dark-text) !important;
+    font-weight: 500;
+}
+
+.blog .card-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--dark-text);
+}
+
+.blog .blog-author {
+    font-size: 14px;
+    color: var(--primary-color);
+    font-weight: 500;
+    margin: 20px 0;
+}
+
+.card-description {
+    font-size: 14px;
+    color: var(--dark-text);
+    line-height: 1.6;
+}
+
+.blog-link {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--muted-text) !important;
+    text-decoration: underline !important;
+    text-underline-offset: 3px;
+    transition: color 0.2s ease;
+}
+
+.blog-link:hover {
+    color: var(--primary-color);
+}
+
+.blog-comment {
+    font-size: 13px;
+    color: var(--dark-text) !important;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.blog-comment i {
+    font-size: 15px;
+}
+
+.comment-count {
+    font-size: 13px;
+    color: var(--dark-text);
+}
