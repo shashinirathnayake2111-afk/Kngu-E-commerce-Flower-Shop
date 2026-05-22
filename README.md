@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-👉 **[Live Demo Link]()**
+👉 **[Live Demo Link](https://shashinirathnayake2111-afk.github.io/Kngu-E-commerce-Flower-Shop/)**
 
 ---
  
