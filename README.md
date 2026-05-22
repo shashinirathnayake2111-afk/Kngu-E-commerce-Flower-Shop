@@ -18,7 +18,7 @@
 | **Bootstrap 5** | Mobile-first responsive grid system (`row`, `col-*`) and UI components |
 | **Custom CSS3** | Pixel-perfect layout adjustments, color palette, typography, and hover transitions |
 | **Font Awesome v6** | Premium and clean UI iconography |
-| **Google Fonts** | *Playfair Display* (headings) + *Montserrat* (body text) |
+| **Google Fonts** | *DM Sans* |
  
 ---
  
