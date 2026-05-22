@@ -66,15 +66,5 @@ Open `index.html` directly in any modern web browser, or use the **VS Code Live 
  
 ---
  
-## ⬆️ Update README on GitHub
- 
-```bash
-git add README.md
-git commit -m "Added a professional README documentation"
-git push origin main
-```
- 
----
- 
 <p align="center">Made with ❤️ · Kapua Flower & Gift Shop · Web Dev Internship Practical Assignment</p>
  
